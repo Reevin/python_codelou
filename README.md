@@ -1,4 +1,4 @@
 # python_codelou
 Thursday Class Repository Workarea
 
-After pulling the repo, unzip the data file into the main working directory.
+Changed the code to automatically unzip and delete the csv file. No manual unzipping required.
